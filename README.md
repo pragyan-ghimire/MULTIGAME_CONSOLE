@@ -1,7 +1,7 @@
 
 #  MULTIGAME CONSOLE
 
-A simple game console consisting four common games played by everyone atleast once in a lifetime.
+A simple game console consisting four common games played by everyone atleast once in a lifetime. These games are mainly popular among teenagers.
 They are:
 1. Tic Tac Toe
 2. HangMan
